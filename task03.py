@@ -287,7 +287,7 @@ def analyze_table_formats(pdf_path):
 
 # Usage examples:
 if __name__ == "__main__":
-    pdf_path = r"C:\Users\isarivelan.mani\repo\rag-chatbot\backend\adnoc\0751\task03\SR03-0751-15-LST-348180_Z3.pdf"
+    pdf_path = r"your_pdf_path"
     
     # Option 1: Just analyze formats
     print("=== ANALYSIS ONLY ===")
