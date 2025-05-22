@@ -89,7 +89,8 @@ def extract_pdf(pdf_path):
     return all_extracted_data
 
 def main():
-    pdf_path= r"C:\Users\isarivelan.mani\repo\rag-chatbot\backend\adnoc\0751\pdf7\SR03-0751-00-DAT-303171_3.pdf"
+    pdf_path= #######
+    
     
     all_extracted_data = extract_pdf(pdf_path)   
     print(all_extracted_data)
